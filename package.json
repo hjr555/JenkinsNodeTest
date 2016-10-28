@@ -1,0 +1,24 @@
+{
+  "name": "jenkinsnodetest",
+  "version": "1.0.0",
+  "description": "Hello world application to test Jenkins automation ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjr555/JenkinsNodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjr555/JenkinsNodeTest/issues"
+  },
+  "homepage": "https://github.com/hjr555/JenkinsNodeTest#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.0",
+    "typescript": "^2.0.6"
+  }
+}
