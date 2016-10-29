@@ -1,6 +1,6 @@
 {
   "name": "jenkinsnodetest",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Hello world application to test Jenkins automation ",
   "main": "index.js",
   "scripts": {
